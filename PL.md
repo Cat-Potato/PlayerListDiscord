@@ -21,6 +21,9 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 2. Skopiuj plik DLL do folderu `Plugins` na swoim serwerze.
 3. Pobierz `dependencies.zip` i wrzuć do folderu `dependencies`
 
+## Niekompatybilny
+- [DiscordIntegration](https://github.com/Exiled-Team/DiscordIntegration)
+
 ## Konfiguracja  
 
 Przykładowy plik konfiguracyjny:  
