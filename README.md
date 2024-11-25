@@ -1,2 +1,2 @@
 ## [PL](PL.md)
-## [EN soon]()
+## [EN soon](EN.md)
