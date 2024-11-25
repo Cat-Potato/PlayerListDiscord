@@ -39,3 +39,6 @@ playerlist:
   # Player list refresh interval (in ms)
   refresh_interval: 10000
 ```  
+
+## Showcase
+<img src="preview.png">
