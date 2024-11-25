@@ -46,8 +46,3 @@ MaxPlayers: 30
 # Player list refresh interval (in ms)
 Refreshing: 10000
 ```  
-
-## Autor  
-
-Plugin stworzony przez **Potato Cat**.  
-
