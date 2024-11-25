@@ -17,7 +17,7 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 
 ## Instalacja  
 
-1. Pobierz najnowszą wersję wtyczki z [Releases](#Releases).  
+1. Pobierz najnowszą wersję wtyczki z [Releases](https://github.com/Cat-Potato/PlayerListDiscord/releases).  
 2. Skopiuj plik DLL do folderu `Plugins` na swoim serwerze.
 3. Pobierz `dependencies.zip` i wrzuć do folderu `dependencies`
 
