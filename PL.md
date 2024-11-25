@@ -13,8 +13,7 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 
 - Serwer SCP: Secret Laboratory z Exiled API.  
 - Bot Discord z odpowiednimi uprawnieniami (wysyłanie wiadomości, osadzanie treści).  
-- Token bota Discord.  
-- Biblioteka DSharpPlus.  
+- Token bota Discord.   
 
 ## Instalacja  
 
