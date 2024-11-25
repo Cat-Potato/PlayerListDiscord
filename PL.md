@@ -26,7 +26,7 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 
 ## Konfiguracja  
 
-Przykładowy plik konfiguracyjny:  
+Plik konfiguracyjny:  
 
 ```yaml
 playerlist:
