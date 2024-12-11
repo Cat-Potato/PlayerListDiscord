@@ -32,26 +32,7 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 
 Plik konfiguracyjny:  
 
-```yaml
-playerlist:
-  is_enabled: true
-  debug: false
-  # Auto Update info Plugin:
-  update_info: true
-  # Bot:
-  bot_token: 'Discord_Bot_Token'
-  channel_id: 123456789012345678
-  discord_message_id: 0
-  name_server: 'ServerName'
-  player_label: 'Players:'
-  # Only HEX color
-  embed_color: '#FFFF00'
-  no_player: 'No Players :('
-  max_players: 30
-  # Player list refresh interval (in ms)
-  refresh_interval: 10000
-  ascii_art: true
-```  
+<img src="config1.png">
 
 ## Showcase
 <img src="preview1.png">
