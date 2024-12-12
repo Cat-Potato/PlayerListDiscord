@@ -54,6 +54,5 @@ playerlist:
 ```
 
 ## Showcase
-<img src="preview1.png">
+<img src="preview/preview1.png">
 
-S
