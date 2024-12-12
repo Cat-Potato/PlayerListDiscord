@@ -32,7 +32,26 @@ A plugin for SCP: Secret Laboratory that integrates the player list with Discord
 
 Configuration file:
 
-<img src="config1.png">
+```yml
+playerlist:
+  is_enabled: true
+  debug: false
+  # Auto Update info Plugin:
+  update_info: true
+  # Bot:
+  bot_token: 'Bot_Token'
+  channel_id: 1234567890101112131
+  discord_message_id: 0
+  name_server: 'ServerName'
+  player_label: 'Players:'
+  # Only HEX color
+  embed_color: '#FFFF00'
+  no_player: 'No Players :('
+  max_players: 30
+  # Player list refresh interval (in ms)
+  refresh_interval: 10000
+  ascii_art: true
+```
 
 ## Showcase
 <img src="preview1.png">
