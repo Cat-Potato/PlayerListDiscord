@@ -32,7 +32,7 @@ Plugin do SCP: Secret Laboratory, który integruje listę graczy z Discordem.
 
 Plik konfiguracyjny:  
 
-<img src="config1.png">
+<img src="Config1.png">
 
 ## Showcase
 <img src="preview1.png">
